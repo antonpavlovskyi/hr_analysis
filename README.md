@@ -14,7 +14,7 @@ There are no specific requirements to run and explore this project. Python 3.8.1
 - matplotlib
 - pandas
 - seaborn
-- scipi
+- scipy
 - pylab
 
 ## Project Motivation<a name="motivation"></a>
